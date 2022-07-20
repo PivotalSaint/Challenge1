@@ -5,14 +5,15 @@
 }
 
 body {
-    background-color: royalblue;
+    background-color: #d9dcd6;
 }
 
+/* start of header attributes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: whitesmoke;
-    color: lightblue;
+    background-color: #2a607c;
+    color: #ffffff;
 }
 
 /* need to come back and change labels to be more readable */
@@ -23,12 +24,10 @@ body {
 }
 
 .header h1 .seo {
-    color: royalblue
+    color: #d9dcd6;
 }
 
-/* I dont believe calibri is calibrated for this website, may need to change */
-
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,17 +35,17 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
 a {
-    color: lightblue;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -54,11 +53,10 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.hero img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./images/digital-marketing-meeting.jpg;");
     background-size: cover;
     background-position: center;
 }
