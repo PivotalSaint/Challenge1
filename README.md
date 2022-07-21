@@ -1,5 +1,5 @@
 # Challenge1 - Horiseon Project UTSA Bootcamps
-[https://pivotalsaint.gitub.io/Challenge1/]
+[https://pivotalsaint.github.io/Challenge1/]
 # Project Source Coding
 [https://github.com/PivotalSaint/Challenge1/blob/main/index.html]
 # Project at a Glance
